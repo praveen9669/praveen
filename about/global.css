@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-18: Raleway;
+  --font-comfortaa: Comfortaa;
+  --font-nunito: Nunito;
+  --font-playfair-display: "Playfair Display";
+
+  /* font sizes */
+  --body-18-size: 18px;
+
+  /* Colors */
+  --bg-gray: #f9faff;
+  --bg-line: #25282b;
+
+  /* Gaps */
+  --gap-29xl: 48px;
+  --gap-11xs: 2px;
+
+  /* Border radiuses */
+  --br-mini: 15px;
+  --br-11xs: 2px;
+}

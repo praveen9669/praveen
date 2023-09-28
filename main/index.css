@@ -1,0 +1,315 @@
+.yellow-bg-icon {
+  position: absolute;
+  right: 0;
+  bottom: 769.44px;
+  width: 755.26px;
+  height: 706.56px;
+}
+.phinstagram-logo-fill-icon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icons {
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.madelyn-torff-2021 {
+  position: relative;
+}
+.footer-icons,
+.footer-icons1 {
+  position: absolute;
+  top: 1852px;
+  left: calc(50% - 172px);
+  width: 194px;
+  height: 119px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  font-size: var(--font-size-base);
+  color: var(--font-medium-emphasis);
+  font-family: var(--font-nunito);
+}
+.footer-icons1 {
+  top: 1476px;
+  left: calc(50% - 22px);
+}
+.title {
+  position: relative;
+  line-height: 120%;
+  display: inline-block;
+  width: 486px;
+}
+.i-am-are {
+  margin-block-start: 0;
+  margin-block-end: 24px;
+}
+.text {
+  position: relative;
+  line-height: 150%;
+  display: inline-block;
+  width: 486px;
+}
+.content,
+.subheadline {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.subheadline {
+  padding: 18px 0 0;
+  font-size: 26px;
+  color: var(--font-medium-emphasis);
+  font-family: var(--font-piedra);
+}
+.content {
+  position: absolute;
+  top: 113px;
+  left: 104px;
+  width: 958px;
+  height: 293px;
+  gap: 10px;
+  font-size: var(--title-h1-size);
+  color: var(--bg-line);
+  font-family: var(--title-h1);
+}
+.praveen-kumar {
+  position: absolute;
+  top: 12px;
+  left: 120px;
+  line-height: 180%;
+}
+.sobre {
+  position: relative;
+  line-height: 28px;
+  font-weight: 500;
+}
+.tab-default {
+  cursor: pointer;
+}
+.nav,
+.tab-default,
+.tab-default1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.nav {
+  top: 14px;
+  right: 120px;
+  flex-direction: row;
+  gap: 48px;
+  font-family: var(--body-18);
+}
+.header,
+.icon,
+.nav {
+  position: absolute;
+}
+.header {
+  width: calc(100% - 12px);
+  top: 17px;
+  right: 28px;
+  left: -16px;
+  height: 161px;
+  font-size: var(--body-18-size);
+  color: var(--bg-line);
+  font-family: var(--font-comfortaa);
+}
+.icon {
+  top: 113px;
+  left: 1073px;
+  border-radius: 262px;
+  width: 384px;
+  height: 384px;
+  object-fit: cover;
+}
+.ovalesecondary1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 2750px;
+  background-color: var(--brand-yellow);
+}
+.ovalesecondary {
+  position: absolute;
+  top: 786px;
+  left: 393px;
+  border-radius: 2px;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.2),
+      rgba(255, 255, 255, 0.2)
+    ),
+    #fff;
+  width: 695px;
+  height: 93px;
+}
+.social-media {
+  position: absolute;
+  top: 804px;
+  left: calc(50% - 269.89px);
+  font-size: 55px;
+  line-height: 136%;
+  font-family: var(--font-luckiest-guy);
+  color: #252525;
+  display: inline-block;
+  width: 494.97px;
+  height: 80.56px;
+  transform: rotate(0.08deg);
+  transform-origin: 0 0;
+}
+.instagram-black-icon {
+  position: relative;
+  width: 48px;
+  height: 48px;
+}
+.instagram {
+  width: 187px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-base-5);
+}
+.category-title-1,
+.pinterest,
+.snapchat,
+.twitter {
+  position: absolute;
+  top: calc(50% + 197px);
+  left: calc(50% - 431px);
+  width: 283px;
+  height: 109px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.pinterest,
+.snapchat,
+.twitter {
+  top: calc(50% + 459px);
+  width: 286px;
+  height: 86px;
+  gap: var(--gap-base-5);
+}
+.snapchat,
+.twitter {
+  top: calc(50% + 325px);
+  width: 263px;
+  height: 100px;
+}
+.snapchat {
+  top: calc(50% + 341px);
+  left: calc(50% + 111px);
+  width: 270px;
+}
+.github {
+  position: relative;
+  line-height: 160%;
+}
+.snapchat2,
+.tumblr {
+  position: absolute;
+  top: calc(50% + 475px);
+  left: calc(50% + 77px);
+  width: 304px;
+  height: 86px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-base-5);
+}
+.tumblr {
+  top: calc(50% + 213px);
+  left: calc(50% + 125px);
+  width: 218px;
+  height: 109px;
+}
+.vector-icon {
+  position: absolute;
+  height: 13.66%;
+  width: 101.76%;
+  top: 86.92%;
+  right: -1.76%;
+  bottom: -0.59%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.text1 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 500;
+}
+.button-primary {
+  left: 306px;
+  background-color: var(--brand-yellow);
+}
+.button-primary,
+.button-primary1,
+.button-secondary {
+  position: absolute;
+  top: 599px;
+  border-radius: var(--br-5xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-5xl);
+  font-size: var(--body-18-size);
+  color: var(--bg-line);
+  font-family: var(--font-roboto);
+}
+.button-primary1 {
+  left: 96px;
+  background-color: var(--brand-yellow);
+}
+.button-secondary {
+  left: 503px;
+  border: 2px solid var(--bg-line);
+  box-sizing: border-box;
+  width: 96px;
+}
+.footer-icons2 {
+  position: absolute;
+  top: 1384px;
+  left: calc(50% - 69px);
+  width: 194px;
+  height: 119px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--gap-13xl);
+  font-size: var(--font-size-base);
+  color: var(--font-medium-emphasis);
+  font-family: var(--font-nunito);
+}
+.portfolio-simple-footer {
+  position: relative;
+  background-color: var(--bg-gray);
+  width: 100%;
+  height: 1476px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--main-corail);
+  font-family: var(--font-inter);
+}
